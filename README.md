@@ -189,7 +189,7 @@ If you find this tool useful, please:
       </a>
     </td>
     <td>
-      <a href="mailto:vimalchaudhary011@gmail.com">
+      <a href="mailto:">
         <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
       </a>
     </td>
