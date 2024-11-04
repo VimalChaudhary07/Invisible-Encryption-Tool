@@ -45,10 +45,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/invisible-encryption
+git clone https://github.com/VimalChaudhary07/Invisible-Encryption-Tool
 
 # Navigate to project directory
-cd invisible-encryption
+cd Invisible-Encryption-Tool
 
 # Install dependencies
 npm install
