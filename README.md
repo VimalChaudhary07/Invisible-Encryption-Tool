@@ -184,12 +184,12 @@ If you find this tool useful, please:
 <table>
   <tr>
     <td>
-      <a href="https://github.com/yourusername">
+      <a href="https://github.com/VimalChaudhary07">
         <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
       </a>
     </td>
     <td>
-      <a href="mailto:your.email@example.com">
+      <a href="mailto:vimalchaudhary011@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
       </a>
     </td>
