@@ -205,5 +205,5 @@ If you find this tool useful, please:
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/VimalChaudhary07">Your Name</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/VimalChaudhary07">Vimal Chaudhary</a></sub>
 </div>
